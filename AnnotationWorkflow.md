@@ -4,6 +4,8 @@ This section describes how to set up and use the main tools adopted for concept 
 
 Since USAGI may require a few hours to complete the first initialization, **we suggest you follow these steps at least one day before the scheduled tutorial!**
 
+The general idea behind the mapping process is illustrated in [this presentation](https://polimi365-my.sharepoint.com/:p:/g/personal/10130898_polimi_it/Eb51i-Kme_1NpPizlMq28ZIBURGTE7-UnnLU_KkqK8d79g), which will be updated as the project progresses.
+
 ## Prerequisites
 
 **Java**: Several OMOP tools, including USAGI and the others described below, require Java to run, so you must have **Java 8 (1.8)** (or higher) installed on your machine.
